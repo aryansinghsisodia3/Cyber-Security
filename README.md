@@ -6,6 +6,9 @@
 ## Authors
 
 - [@aryansinghsisodia3](https://www.github.com/aryansinghsisodia3)
+
+## Contributors
+
 - [@msquarex](https://www.github.com/msquarex)
 - [@VishPS](https://www.github.com/VishPS)
 
